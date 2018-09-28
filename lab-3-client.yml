@@ -1,2 +1,7 @@
 ---
 lucky-word: Irish
+
+---
+spring:
+  profiles: northamerica
+lucky-word: Magic 8-ball
